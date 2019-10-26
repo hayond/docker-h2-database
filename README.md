@@ -1,4 +1,4 @@
-# docker-h2-database
+docker-h2-database
 =========
 
 Dockerized H2 database service.
